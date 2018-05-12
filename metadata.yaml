@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1508
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27678#Nine-Little-Goslings
 gutenberg_issued: '2008-12-31'
 gutenberg_type: Text
 identifiers:
